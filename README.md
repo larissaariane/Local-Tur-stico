@@ -1,4 +1,4 @@
-# Local-Tur-stico
+# Local Turístico
 Desafio criado pela Rocketseat da aula de HTML E CSS. 
 
 
