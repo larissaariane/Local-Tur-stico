@@ -1,0 +1,222 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+:root {
+  font-family: "Open Sans", serif;
+}
+
+#page {
+  width: 1120px;
+  margin: 88px auto 65px;
+  box-sizing: border-box;
+}
+
+#title_page {
+  margin-bottom: 40px;
+}
+
+#title_page p {
+  font-size: 16px;
+  font-weight: 700;
+  color: #e1624f;
+  text-transform: uppercase;
+
+  margin-bottom: 8px;
+}
+
+#title_page h1 {
+  font-size: 36px;
+  color: #1b1b1b;
+}
+
+#description_image {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#description_image img {
+  border-radius: 28px;
+  margin-bottom: 24px;
+}
+
+#description_image p {
+  font-size: 16px;
+  color: #333;
+  font-style: italic;
+  text-align: center;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+
+  margin: 36px 0;
+}
+
+#title_list {
+  margin: 64px 0;
+}
+
+#title {
+  margin-bottom: 8px;
+}
+
+#title_list #title p {
+  font-size: 16px;
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+
+  margin-bottom: 2px;
+}
+
+#title_list #title h2 {
+  font-size: 32px;
+  color: #1b1b1b;
+  line-height: 44px;
+}
+
+#title_list p {
+  font-size: 16px;
+  color: #333;
+}
+
+
+/* Section - Templo Haedong */
+#temple_haedong {
+  margin-bottom: 48px;
+}
+
+#temple_haedong img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+#temple_haedong h3 {
+  font-size: 28px;
+  color: #1b1b1b;
+  margin-bottom: 4px;
+}
+
+#temple_haedong p {
+  font-size: 16px;
+  color: #333;
+}
+
+#temple_haedong li {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+#temple_haedong ul li::marker {
+  color: #333;
+}
+
+
+/* Section - Templo Beomeo-sa  */
+#temple_beomeo_sa {
+  margin-bottom: 48px;
+}
+
+#temple_beomeo_sa img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+#temple_beomeo_sa h3 {
+  font-size: 28px;
+  color: #1b1b1b;
+  margin-bottom: 4px;
+}
+
+#temple_beomeo_sa p {
+  font-size: 16px;
+  color: #333;
+}
+
+#temple_beomeo_sa li {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+#temple_beomeo_sa ul li::marker {
+  color: #333;
+}
+
+
+/* Section - Parque Yongdusan  */
+#park_yongdusan {
+  margin-bottom: 40px;
+}
+
+#park_yongdusan img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+#park_yongdusan h3 {
+  font-size: 28px;
+  color: #1b1b1b;
+  margin-bottom: 4px;
+}
+
+#park_yongdusan p {
+  font-size: 16px;
+  color: #333;
+}
+
+#park_yongdusan li#li_first {
+  color: #591b98;
+  font-weight: bold;
+}
+
+#park_yongdusan li#li_second {
+  color: #e5245e;
+  font-weight: bold;
+}
+
+#park_yongdusan li#li_third {
+  color: #e95e10;
+  font-weight: bold;
+}
+
+#park_yongdusan ul li::marker {
+  color: #333;
+}
+
+#page p#description {
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+footer {
+  font-family: "Alice", serif;
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+  padding-bottom: 48px;
+  line-height: 150%;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+
+/* ----- */
+p#paragraph {
+  margin-top: 16px;
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 26px;
+}
